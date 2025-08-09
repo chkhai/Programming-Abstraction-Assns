@@ -1,0 +1,6 @@
+﻿  WordLadder.cpp
+StanfordCPPLib-vs2022.lib(error.obj) : warning LNK4099: PDB '' was not found with 'StanfordCPPLib-vs2022.lib(error.obj)' or at ''; linking object as if no debug info
+StanfordCPPLib-vs2022.lib(lexicon.obj) : warning LNK4099: PDB '' was not found with 'StanfordCPPLib-vs2022.lib(lexicon.obj)' or at ''; linking object as if no debug info
+StanfordCPPLib-vs2022.lib(simpio.obj) : warning LNK4099: PDB '' was not found with 'StanfordCPPLib-vs2022.lib(simpio.obj)' or at ''; linking object as if no debug info
+StanfordCPPLib-vs2022.lib(strlib.obj) : warning LNK4099: PDB '' was not found with 'StanfordCPPLib-vs2022.lib(strlib.obj)' or at ''; linking object as if no debug info
+  Word Ladder.vcxproj -> C:\Users\user\Downloads\Assignment2-vs2022\Assignment2-vs2022\Word Ladder\x64\Debug\Word Ladder.exe

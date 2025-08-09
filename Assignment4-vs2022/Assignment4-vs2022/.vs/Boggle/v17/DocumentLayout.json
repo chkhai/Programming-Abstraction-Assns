@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Downloads\\Assignment4-vs2022\\Assignment4-vs2022\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67E1B098-0A3C-4005-854E-8F8631BB0D39}|Boggle\\Boggle.vcxproj|C:\\Users\\user\\Downloads\\Assignment4-vs2022\\Assignment4-vs2022\\src\\Boggle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67E1B098-0A3C-4005-854E-8F8631BB0D39}|Boggle\\Boggle.vcxproj|solutionrelative:src\\Boggle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E1B098-0A3C-4005-854E-8F8631BB0D39}|Boggle\\Boggle.vcxproj|C:\\Users\\user\\Downloads\\Assignment4-vs2022\\Assignment4-vs2022\\src\\gboggle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67E1B098-0A3C-4005-854E-8F8631BB0D39}|Boggle\\Boggle.vcxproj|solutionrelative:src\\gboggle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 305,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Boggle.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Assignment4-vs2022\\Assignment4-vs2022\\src\\Boggle.cpp",
+              "RelativeDocumentMoniker": "src\\Boggle.cpp",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Assignment4-vs2022\\Assignment4-vs2022\\src\\Boggle.cpp",
+              "RelativeToolTip": "src\\Boggle.cpp",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAAAFQBAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-20T21:03:08.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "gboggle.h",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Assignment4-vs2022\\Assignment4-vs2022\\src\\gboggle.h",
+              "RelativeDocumentMoniker": "src\\gboggle.h",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Assignment4-vs2022\\Assignment4-vs2022\\src\\gboggle.h",
+              "RelativeToolTip": "src\\gboggle.h",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-28T07:42:19.395Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
